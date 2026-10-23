@@ -1,0 +1,7 @@
+{
+  "name": "ratelimiter-ts",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --experimental-strip-types --test tokenBucket.test.ts" },
+  "devDependencies": { "typescript": "^5.4.5" }
+}
